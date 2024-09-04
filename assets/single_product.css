@@ -1,0 +1,47 @@
+﻿#prodetails {
+    display: flex;
+    margin-top: 20px;
+}
+
+#prodetails .single-pro-img {
+    width: 40%;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+#prodetails .single-pro-details {
+    width: 50%;
+    padding-top: 30px;
+    word-wrap: break-word;
+}
+
+#prodetails .single-pro-details h4 {
+    padding: 40px 0 20px 0;
+    font-size: 40px;
+    margin: -15px 0;
+}
+
+.name {
+    margin: -10px 0;
+}
+
+#prodetails .single-pro-details h2 {
+    font-size: 24px;
+}
+
+#prodetails .single-pro-details h6 {
+    font-size: 30px;
+    margin-top: -30px;
+}
+
+#prodetails .single-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#prodetails .single-pro-details button:hover {
+    background-color: rgb(177, 20, 20);
+}
